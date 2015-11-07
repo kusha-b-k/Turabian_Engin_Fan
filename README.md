@@ -1,6 +1,6 @@
 # Turabian_Engin_Fan
 fan rotation code for turabian engin
-
+developed by Kusha bk
 
 
 ![alt tag](https://github.com/kusha-b-k/Turabian_Engin_Fan/blob/master/kushabkTurbaincode.gif)
