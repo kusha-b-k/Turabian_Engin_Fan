@@ -9,7 +9,7 @@ Clone the git repository available here on github.
 
 https://github.com/kusha-b-k/Turabian_Engin_Fan
 
-#Screen shot
+#Screenshot
 ![alt tag](https://github.com/kusha-b-k/Turabian_Engin_Fan/blob/master/kushabkTurbaincode.gif)
 
 
